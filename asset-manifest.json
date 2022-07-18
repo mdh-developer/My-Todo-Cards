@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/My-Todo-Cards/static/css/main.cb3a336a.css",
+    "main.js": "/My-Todo-Cards/static/js/main.dff02049.js",
+    "static/media/colorful_21-wallpaper.jpg": "/My-Todo-Cards/static/media/colorful_21-wallpaper.dec38ed03e2619d5ea50.jpg",
+    "static/media/colorful_blurry.jpg": "/My-Todo-Cards/static/media/colorful_blurry.e70f345df33a250b91eb.jpg",
+    "static/media/simple_blue.jpg": "/My-Todo-Cards/static/media/simple_blue.6a7627df7f68fc87fa2b.jpg",
+    "index.html": "/My-Todo-Cards/index.html",
+    "main.cb3a336a.css.map": "/My-Todo-Cards/static/css/main.cb3a336a.css.map",
+    "main.dff02049.js.map": "/My-Todo-Cards/static/js/main.dff02049.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb3a336a.css",
+    "static/js/main.dff02049.js"
+  ]
+}
